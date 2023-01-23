@@ -1,7 +1,3 @@
-<!--
-**shaman87/shaman87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <h2 align="left">Hi there! I'm Felipe 👋</h2>
 
 <img align="right" height="300" src="https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif"  />
