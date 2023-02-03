@@ -6,8 +6,9 @@
 
 <h3>🧑 About me</h3>
 
-- 📚 Studying Software Engineering at <a href="https://www.linkedin.com/school/driven-education/">Driven Education</a>
-- ❤️️ I love watching movies, tv series, anime and playing video-games
+- 💻 Web Full-Stack Developer
+- 📚 I studied Software Engineering at <a href="https://www.linkedin.com/school/driven-education/">Driven Education</a>
+- ❤️️ Love watching movies, tv series, anime and playing video-games
 
 ###
 
